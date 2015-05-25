@@ -1,0 +1,12 @@
+.DS_Store
+_config.yml
+_drafts
+_includes
+_layouts
+_posts
+_sass
+_site
+about.md
+css
+feed.xml
+index.html
